@@ -2,14 +2,14 @@
   
 
   
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=guilhermeramos31&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermeramos31&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adiliojf&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
 
  
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,java,kotlin,maven,spring,docker,figma,github,linux,postman,mongodb,postgres,discord,linkedin&theme=dark&perline=14" />
+  <img src="https://skillicons.dev/icons?i=git,java,swift,spring,docker,figma,github,linux,postman,postgres,discord,linkedin,vscode,visualstudio,py,matlab,mysql,heroku,eclipse,cpp,c,r&theme=dark&perline=11" />
 </a>
   <br />
 
@@ -18,5 +18,5 @@
  
 ##
    <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=guilhermeramos31&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+     <img src="https://github-profile-trophy.vercel.app/?username=adiliojf&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
   </div>
