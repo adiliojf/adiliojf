@@ -1,7 +1,7 @@
 ### About me
 
-🧑🏽 Hi, I'm Adilio! I'm 23 years old
-🇧🇷 Living in Fortaleza, CE
+🧑🏽 Hi, I'm Adilio! I'm 23 years old\
+🇧🇷 Living in Fortaleza, CE\
 📱 iOS developer at Apple Developer Academy Foundation\
 💻 Studying Data Science at Federal University of Ceará\
 
