@@ -1,6 +1,6 @@
 ### About me
 
-🧑🏽 Hi, I'm Adilio! I'm 23 years old.\
+🧑🏽 Hi, I'm Adilio! I'm 24 years old.\
 🇧🇷 Living in Fortaleza, CE\
 💻 Studying Data Science at Federal University of Ceará
 
